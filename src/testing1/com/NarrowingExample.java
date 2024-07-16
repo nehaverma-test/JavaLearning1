@@ -20,7 +20,5 @@ public class NarrowingExample {
         byte b = (byte) a;
         System.out.println(b);
 
-
-
     }
 }
