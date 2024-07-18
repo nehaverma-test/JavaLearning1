@@ -1,6 +1,6 @@
 package testing2.com;
 
-public class ExitStatement {
+public class BreakExample {
     public static void main(String[] args) {
         for(int i =0;i<5;i++)
         {
